@@ -3,7 +3,7 @@ The [Civic Digital Fellowship](https://www.codingitforward.com/summer-fellowship
 
 We are grateful for agency partners who provided our Fellows with the opportunity to serve and grow this summer: the [Bureau of Justice Statistics](https://bjs.ojp.gov/), the [Bureau of Labor Statistics](https://www.bls.gov/), the [U.S. Census Bureau](https://www.census.gov/), the [Centers for Medicare and Medicaid Services](https://www.cms.gov/), [U.S. Citizenship and Immigration Services](https://www.uscis.gov/), the [General Services Administration](https://www.gsa.gov/), the [Department of Health and Human Services](https://www.hhs.gov/), [Internal Revenue Service](https://www.irs.gov/), the [National Institutes of Health](https://www.nih.gov/), and [U.S. Special Operations Command](https://www.socom.mil/). 
 
-Meet the 98 young technologists who served in our seventh cohort: [Introducing the 2022 Coding it Forward](https://blog.codingitforward.com/introducing-the-2022-coding-it-forward-fellows-b14bac95c58f)
+Meet the 98 young technologists who served in our seventh cohort: [Introducing the 2022 Coding it Forward Fellows](https://blog.codingitforward.com/introducing-the-2022-coding-it-forward-fellows-b14bac95c58f)
 
 This repository features the slides that Fellows presented during their respective end-of-summer presentations at their host agencies. View a recording of Coding it Forward’s [virtual end-of-summer celebration](https://www.youtube.com/watch?v=X5t_Bma0QYQ&t), with keynote remarks from Erie Meyer, Chief Technologist at the Consumer Financial Protection Bureau.
 
