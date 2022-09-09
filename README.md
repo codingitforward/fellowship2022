@@ -15,12 +15,6 @@ This repository features the slides that Fellows presented during their respecti
 **Anahita Srinivasan** is a rising sophomore at the Massachusetts Institute of Technology studying Electrical Engineering and Computer Science. This summer, she worked on a predictive project management pilot project on a predictive project management pilot project at the Bureau of Labor Statistics in the Division of Enterprise Web Systems. She used machine learning to develop several programs that predict software project success and cost, laid out a schedule for project completion, and analyzed descriptions of risks associated with a project.
 
 **Angad Gakhal** is a rising senior at the University of Illinois, Chicago. He spent the summer working as a Data Analyst fellow for the Office of Promoter Investigations within the Small Business/Self-Employed division of the Internal Revenue Service (IRS), alongside Manas Khatore and Jennifer Spinoglio. With his portion of the analysis, he created metrics to measure the effectiveness of the Notice Stream to other Penalty Collection processes within the IRS. These metrics included breaking down the total amount collected by Statistical Groupings (such as averages, amounts collected per year, and amounts collected per Penalty Reference Number) and categorizing payments into ranges to determine payment confidence percentages. Knowing which penalty collection processes are most effective will help the IRS make better data-driven decisions to utilize collection resources.
-
-**Angela Liu**
- 
-**Angie Shin**
- 
-**Anna Evans**
  
 **Arla Sutton** is a rising junior at Olin College of Engineering studying Human Centered Design. This summer, with Joel Yong, she worked at the U.S. Census Bureau in the Office of Strategic Alliances on a  project focused specifically on undercounted communities to advance data equity. Arla and Joel collected feedback from organizational partners about how the Census Bureau can better meet their needs and produced three proposals in prototype form for the Bureau. | [Presentation](Arla_Sutton_Joel_Yong.pdf)
 
